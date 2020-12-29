@@ -14,9 +14,8 @@ Here are some ideas to get you started:
   -->
 
 # Hi there, I'm Jeonghan 👋
-<br/>
 
-## **👋🏻Introduce**
+## **👋Introduce**
 🙋‍♂️Name: 유정한 <br/>
 📚Blog: https://velog.io/@coding_egg <br/>
 ✉Mail: yjh9360@naver.com
