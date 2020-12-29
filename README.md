@@ -20,13 +20,14 @@
 
 <!--일반 버전-->
 # Hi there, I'm Jeonghan 👋
+<br/>
 
 ## 👋Introduce
 **🙋‍♂️Name: 유정한** <br/>
 
 **📚Blog: [velog.io/@coding_egg](https://velog.io/@coding_egg)**
 
-✉Mail: [yjh9360@naver.com
+**✉Mail: [yjh9360@naver.com](mailto:yjh9360@naver.com)**
 
 ## 🛠Languages and Tools🛠
 
