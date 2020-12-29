@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <h2 align="center" style="font-weight:bold">👋Introduce</h2>
 <div align="center" style="font-weight:bold">🙋‍♂️Name: 유정한 <br/></div>
-<div align="center" style="font-weight:bold" onclick="location.href='https://velog.io/@coding_egg;">📚Blog: velog.io/@coding_egg <br/></div>
-<div align="center" style="font-weight:bold" onclick="location.href='mailto:yjh9360@naver.com;">✉Mail: yjh9360@naver.com <br/></div>
+<div align="center" style="font-weight:bold" onclick="location.href='https://velog.io/@coding_egg'">📚Blog: velog.io/@coding_egg <br/></div>
+<div align="center" style="font-weight:bold" onclick="location.href='mailto:yjh9360@naver.com'">✉Mail: yjh9360@naver.com<br/></div>
 
 <h2 align="center" style="font-weight:bold">🛠Languages and Tools🛠</h2>
 <div align="center">
