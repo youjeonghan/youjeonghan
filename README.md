@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 
 <h1 align="center" style="font-weight:bold">Hi there, I'm Jeonghan 👋</h1>
 
+
+
 <h2 align="center" style="font-weight:bold">👋Introduce</h2>
 <div align="center" style="font-weight:bold">🙋‍♂️Name: 유정한 <br/>
-📚Blog: velog.io/@coding_egg <br/>
-✉Mail: yjh9360@naver.com <br/>
-</div>
+📚Blog: [velog.io/@coding_egg](https://velog.io/@coding_egg) <br/>
+✉Mail: [yjh9360@naver.com](mailto:yjh9360@naver.com)
+<br/></div>
+
+
+## 
 
 <h2 align="center" style="font-weight:bold">🛠Languages and Tools🛠</h2>
 <div align="center">
