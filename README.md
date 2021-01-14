@@ -20,11 +20,11 @@
 
 <!--일반 버전-->
 <!-- 대문이미지 추가 -->
-![KakaoTalk_20210115_034609699](https://user-images.githubusercontent.com/57481424/104634684-49770080-56e4-11eb-95a5-f6e8beb74a5e.jpg)
 
-<!--
 # Hi there, I'm Jeonghan 👋
 <br/>
+<!--
+![KakaoTalk_20210115_034609699](https://user-images.githubusercontent.com/57481424/104634684-49770080-56e4-11eb-95a5-f6e8beb74a5e.jpg)
 -->
 
 ## 👋Introduce
