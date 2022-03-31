@@ -29,6 +29,8 @@
 **📚Blog: [velog.io/@coding_egg](https://velog.io/@coding_egg)**
 
 **✉Mail: [yjh9360@naver.com](mailto:yjh9360@naver.com)**
+
+**💻Portfolio: [노션 링크](https://chrome-mist-228.notion.site/b0804e3480804f358f0e5000517d1b0f)**
 <br/><br/>
 
 ## 🛠 Stacks
